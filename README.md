@@ -66,7 +66,6 @@ Install dependencies:
 
 ```bash
 npm install
-# or yarn install / pnpm install
 ```
 
 Start the development server:
